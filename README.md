@@ -1,6 +1,16 @@
 ### Eugene Junghyun Kim 👋
+
+[![badge](https://img.shields.io/badge/Eugene%20Kim-0077B5?style=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkim904/)
+[![badge](https://img.shields.io/badge/GitHub-100000?style=appveyor&logo=github&logoColor=white)](https://github.com/conankun/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=conankun)](https://solved.ac/conankun/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=conankun)](https://solved.ac/conankun/)
+
 - Software Engineer at Google
 - M.S/B.S in Computer science from Georgia Institute of Technology
+
+### ⚙️ Skills
+
 <!--
 **conankun/conankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=conankun)](https://solved.ac/conankun/)
