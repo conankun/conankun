@@ -6,10 +6,20 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=conankun)](https://solved.ac/conankun/)
 
+### 🌼 About myself
 - Software Engineer at Google
 - M.S/B.S in Computer science from Georgia Institute of Technology
 
-### ⚙️ Skills
+### 🌱 Interest
+- Algorithms
+- Mathematics
+- Machine Learning
+- Data Science
+- Distributed computing
+- Problem solving
+
+### 💻 Skills
+
 
 <!--
 **conankun/conankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
