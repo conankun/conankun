@@ -7,7 +7,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=conankun)](https://solved.ac/conankun/)
 
 ### 🌼 About myself
-- Software Engineer at Google
+- Quantitative Developer (2022-)
+- Software Engineer at Google (2019-2022)
 - M.S/B.S in Computer science from Georgia Institute of Technology
 
 ### 🌱 Interest
