@@ -24,6 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%236E4C13.svg?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![data](https://img.shields.io/badge/data-%232B2D3A.svg?style=for-the-badge)
