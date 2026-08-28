@@ -5,7 +5,7 @@
 
 ### 🌼 About myself
 - Currently exploring problems in agentic AI (2026-)
-- Quantitative Researcher at Citadel Securities (2024-26)
+- Quantitative Researcher at Citadel Securities (2024-2026)
 - Quantitative Developer at Citadel Securities (2022-2024)
 - Software Engineer at Google (2019-2022)
 - M.S/B.S in Computer science from Georgia Institute of Technology
