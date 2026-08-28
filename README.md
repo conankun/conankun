@@ -13,10 +13,10 @@
 ### 🌱 Interest
 - Algorithms
 - Mathematics
+- High-performance computing
 - Machine Learning
 - Data Science
 - Distributed computing
-- High-performance computing
 - Problem solving
 
 ### 💻 Skills
