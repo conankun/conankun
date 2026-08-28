@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![numerics](https://img.shields.io/badge/numerics-%232B2D3A.svg?style=for-the-badge)
+![data](https://img.shields.io/badge/data-%232B2D3A.svg?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-%230075FF.svg?style=for-the-badge&logo=polars&logoColor=white)
