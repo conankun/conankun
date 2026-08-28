@@ -4,8 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-conankun-0C4A6E?style=flat-square&labelColor=2B2D3A)](https://github.com/conankun/)
 
 ### 🌼 About myself
-- Quantitative Researcher (2024-)
-- Quantitative Developer (2022-2024)
+- Currently exploring problems in agentic AI (2026-)
+- Quantitative Researcher at Citadel Securities (2024-26)
+- Quantitative Developer at Citadel Securities (2022-2024)
 - Software Engineer at Google (2019-2022)
 - M.S/B.S in Computer science from Georgia Institute of Technology
 
