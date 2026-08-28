@@ -16,7 +16,7 @@
 - Machine Learning
 - Data Science
 - Distributed computing
-- Performance engineering
+- High-performance computing
 - Problem solving
 
 ### 💻 Skills
