@@ -1,7 +1,7 @@
 ### Eugene Junghyun Kim 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20Kim-1F6FEB?style=flat-square&labelColor=2B2D3A)](https://www.linkedin.com/in/jkim904/)
-[![GitHub](https://img.shields.io/badge/GitHub-conankun-0C4A6E?style=flat-square&labelColor=2B2D3A)](https://github.com/conankun/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge)](https://www.linkedin.com/in/jkim904/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/conankun/)
 
 ### 🌼 About myself
 - Currently exploring problems in agentic AI (2026-)
@@ -19,21 +19,21 @@
 - Problem solving
 
 ### 💻 Skills
-![C++](https://img.shields.io/badge/C%2B%2B-systems-0C4A6E?style=flat-square&labelColor=2B2D3A)
-![Python](https://img.shields.io/badge/Python-research-3776AB?style=flat-square&labelColor=2B2D3A)
-![Rust](https://img.shields.io/badge/Rust-systems-B45309?style=flat-square&labelColor=2B2D3A)
-![C](https://img.shields.io/badge/C-HPC-1F6FEB?style=flat-square&labelColor=2B2D3A)
-![SQL](https://img.shields.io/badge/SQL-data-166534?style=flat-square&labelColor=2B2D3A)<br>
-![NumPy](https://img.shields.io/badge/NumPy-arrays-1F6FEB?style=flat-square&labelColor=2B2D3A)
-![pandas](https://img.shields.io/badge/pandas-frames-166534?style=flat-square&labelColor=2B2D3A)
-![Polars](https://img.shields.io/badge/Polars-frames-9D174D?style=flat-square&labelColor=2B2D3A)
-![PyTorch](https://img.shields.io/badge/PyTorch-models-9A3412?style=flat-square&labelColor=2B2D3A)
-![JAX](https://img.shields.io/badge/JAX-autodiff-6D28D9?style=flat-square&labelColor=2B2D3A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-models-B45309?style=flat-square&labelColor=2B2D3A)<br>
-![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-9A3412?style=flat-square&labelColor=2B2D3A)
-![Linux](https://img.shields.io/badge/Linux-tooling-0C4A6E?style=flat-square&labelColor=2B2D3A)
-![MPI](https://img.shields.io/badge/MPI-parallelism-0F766E?style=flat-square&labelColor=2B2D3A)
-![LaTeX](https://img.shields.io/badge/LaTeX-writing-166534?style=flat-square&labelColor=2B2D3A)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-%230075FF.svg?style=for-the-badge&logo=polars&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%237C3AED.svg?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![MPI](https://img.shields.io/badge/MPI-%230F766E.svg?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <!--
 **conankun/conankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
